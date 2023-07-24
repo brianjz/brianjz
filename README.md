@@ -1,8 +1,4 @@
 ## Hi there 👋 I'm Brian.
-<p align="center">
-  <a href="https://www.linkedin.com/in/bzalewski">LinkedIn</a> •
-  <a href="https://brianzalewski.com/">brianzalewski.com</a>
-</p>
 
 - 🔭 I’m currently working on finding that next career...
 - 🌱 I’m currently learning all the things!  (Mainly C#, React, and some Azure)
@@ -29,3 +25,8 @@
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="25"></span>
 <span><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" height="25"></span>
 <span><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" height="25"></span>
+
+## :satellite: Find Me
+<span><a href="https://brianzalewski.com"><img src="https://img.shields.io/badge/brianzalewski.com-006AFF?style=for-the-badge&logo=zotero&logoColor=white" alt="brianzalewski.com" height="25"></a></span>
+<span><a href="https://linkedin.com/in/bzalewski"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"></a></span>
+<span><a href="https://steamcommunity.com/id/zideshow/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="25"></a></span>
