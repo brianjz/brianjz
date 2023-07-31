@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Brian.
 
-- 🔭 I’m currently working on finding that next career... [Hire me!](https://linkedin.com/in/bzalewski)
 - 🌱 I’m currently learning all the things!  (Mainly C#, React, and some Azure)
 - :blue_book: I'm currently interested in learning about AI and machine learning.
 - :recycle: I love trying to automate everything I can. I love [Home Assistant](https://home-assistant.io) and hacking little Python scripts.
